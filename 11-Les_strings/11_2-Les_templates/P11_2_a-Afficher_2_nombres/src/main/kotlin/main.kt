@@ -1,3 +1,5 @@
 fun main() {
-    // put your code here
+    var a = 8
+    var b = 17
+    print("$a $b")
 }
